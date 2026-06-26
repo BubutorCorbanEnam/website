@@ -1,0 +1,16 @@
+{
+  "name": "Academic Portfolio",
+  "short_name": "Portfolio",
+  "description": "A modern academic portfolio for a researcher and data analyst.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <path d="M0 540C180 480 290 500 430 455c160-50 235-180 390-190 132-9 236 70 380 18v347H0Z" fill="#dbeafe"/>
+  <rect x="96" y="86" width="1008" height="458" rx="20" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="140" y="220" font-family="Arial" font-size="56" font-weight="700" fill="#0f172a">Dr. Alex Morgan</text>
+  <text x="140" y="292" font-family="Arial" font-size="34" fill="#334155">Researcher, Data Analyst, Future PhD Candidate</text>
+  <text x="140" y="378" font-family="Arial" font-size="28" fill="#0f766e">Evidence-driven research. Reproducible data systems.</text>
+</svg>

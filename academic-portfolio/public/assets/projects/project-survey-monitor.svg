@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#f8fafc"/>
+  <rect x="95" y="80" width="710" height="360" rx="18" fill="#fff" stroke="#cbd5e1"/>
+  <path d="M170 190h190M170 260h300M170 330h250" stroke="#0f766e" stroke-width="18" stroke-linecap="round"/>
+  <path d="M590 180l60 65 98-118" fill="none" stroke="#2563eb" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="170" y="130" font-family="Arial" font-size="32" fill="#0f172a">Survey Quality Monitor</text>
+</svg>

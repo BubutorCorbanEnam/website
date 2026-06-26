@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#f8fafc"/>
+  <rect x="60" y="60" width="780" height="400" rx="18" fill="#fff" stroke="#cbd5e1"/>
+  <path d="M120 380l110-120 96 50 110-150 128 95 116-132" fill="none" stroke="#2563eb" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="120" y="135" font-family="Arial" font-size="34" font-weight="700" fill="#0f172a">Policy Impact Atlas</text>
+</svg>
