@@ -45,8 +45,8 @@ export const navItems: NavItem[] = [
 export const socialLinks: SocialLink[] = [
   { label: 'Google Scholar', href: 'https://scholar.google.com', icon: FaGoogleScholar },
   { label: 'ORCID', href: 'https://orcid.org', icon: FaOrcid },
-  { label: 'GitHub', href: 'https://github.com', icon: FaGithub },
-  { label: 'LinkedIn', href: 'https://linkedin.com', icon: FaLinkedin },
+  { label: 'GitHub', href: 'https://github.com/BubutorCorbanEnam', icon: FaGithub },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/bubutor-corban-enam', icon: FaLinkedin },
   { label: 'ResearchGate', href: 'https://researchgate.net', icon: FaResearchgate },
   { label: 'X', href: 'https://x.com', icon: FaXTwitter }
 ];
